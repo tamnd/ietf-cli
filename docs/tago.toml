@@ -1,0 +1,10 @@
+title       = "ietf"
+baseURL     = "https://ietf-cli.tamnd.com/"
+description = "A command line for ietf."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/ietf-cli"
